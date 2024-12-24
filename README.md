@@ -1,2 +1,2 @@
-# repo-with-all-files
-sample repo with al files for checking
+# Repo for checking
+contains sample files and template for test
